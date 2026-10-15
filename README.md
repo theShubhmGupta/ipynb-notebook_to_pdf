@@ -196,8 +196,6 @@ Suggestions, bug reports, and contributions are welcome.
 
 [![GitHub](https://img.shields.io/badge/GitHub-theShubhmGupta-black?logo=github)](https://github.com/theShubhmGupta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theshubhamguptaa-blue?logo=linkedin)](https://linkedin.com/in/theshubhamguptaa)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/shubham.gupta2025)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://genai-sql-assistant.streamlit.app/)
 ---
 
 ## License
