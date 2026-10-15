@@ -1,0 +1,21 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Generated PDFs and embedded notebook copies
+*.pdf
+*_embedded.ipynb
+
+# Test/build/IDE files
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
