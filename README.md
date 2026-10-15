@@ -37,43 +37,43 @@ A Python command-line tool for converting Jupyter Notebook (`.ipynb`) files into
 Convert one notebook to a PDF beside the notebook file:
 
 ```bash
-python notebook_to_pdf.py path/to/notebook.ipynb
+python ipynb-notebook_to_pdf.py path/to/notebook.ipynb
 ```
 
 Choose the output PDF path:
 
 ```bash
-python notebook_to_pdf.py path/to/notebook.ipynb -o output.pdf
+python ipynb-notebook_to_pdf.py path/to/notebook.ipynb -o output.pdf
 ```
 
 Set the title shown in the PDF:
 
 ```bash
-python notebook_to_pdf.py path/to/notebook.ipynb -o output.pdf --title "My Notebook"
+python ipynb-notebook_to_pdf.py path/to/notebook.ipynb -o output.pdf --title "My Notebook"
 ```
 
 Adjust code and output font size:
 
 ```bash
-python notebook_to_pdf.py path/to/notebook.ipynb --code-font-size 8
+python ipynb-notebook_to_pdf.py path/to/notebook.ipynb --code-font-size 8
 ```
 
 Skip embedding remote Markdown images:
 
 ```bash
-python notebook_to_pdf.py path/to/notebook.ipynb --no-embed-images
+python ipynb-notebook_to_pdf.py path/to/notebook.ipynb --no-embed-images
 ```
 
 Convert all notebooks in the current folder:
 
 ```bash
-python notebook_to_pdf.py
+python ipynb-notebook_to_pdf.py
 ```
 
 Convert a wildcard selection:
 
 ```bash
-python notebook_to_pdf.py "examples/*.ipynb"
+python ipynb-notebook_to_pdf.py "examples/*.ipynb"
 ```
 
 On Windows, use `py` instead of `python` if that is how Python is configured on your machine.
