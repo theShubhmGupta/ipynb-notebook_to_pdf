@@ -188,6 +188,18 @@ To help reproduce the problem, include your operating system, Python version, th
 
 Suggestions, bug reports, and contributions are welcome.
 
+---
+
+## Author
+
+**Shubham Gupta** 
+
+[![GitHub](https://img.shields.io/badge/GitHub-theShubhmGupta-black?logo=github)](https://github.com/theShubhmGupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theshubhamguptaa-blue?logo=linkedin)](https://linkedin.com/in/theshubhamguptaa)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/shubham.gupta2025)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://genai-sql-assistant.streamlit.app/)
+---
+
 ## License
 
 This project is distributed under the [MIT License](LICENSE).
